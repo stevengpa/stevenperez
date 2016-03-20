@@ -2,7 +2,7 @@
   "name": "stevenperez",
   "version": "1.0.0",
   "description": "Steven Pérez - Full Stack Web Developer.",
-  "main": "index.js",
+  "main": "/index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
