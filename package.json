@@ -1,0 +1,17 @@
+{
+  "name": "stevenperez",
+  "version": "1.0.0",
+  "description": "Steven Pérez - Full Stack Web Developer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "nodejs",
+    "costaricajs"
+  ],
+  "author": "Steven Pérez Alfaro",
+  "license": "MIT"
+}
